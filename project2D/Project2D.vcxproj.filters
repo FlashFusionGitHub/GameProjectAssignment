@@ -25,6 +25,9 @@
     <Filter Include="Header Files\Matrix Hierarchy">
       <UniqueIdentifier>{ac32e507-aeb9-4391-bd25-3daeb5652f3f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\ResourceManagement">
+      <UniqueIdentifier>{71fa0c69-7638-46f5-8efc-ff0fdb2dee45}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application2D.cpp">
@@ -61,6 +64,21 @@
     </ClInclude>
     <ClInclude Include="SpriteObject.h">
       <Filter>Header Files\Matrix Hierarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="IPrototype.h">
+      <Filter>Header Files\ResourceManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files\ResourceManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceBase.h">
+      <Filter>Header Files\ResourceManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceFactory.h">
+      <Filter>Header Files\ResourceManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Header Files\ResourceManagement</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

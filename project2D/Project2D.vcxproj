@@ -97,8 +97,13 @@
     <ClInclude Include="DynamicArray.h" />
     <ClInclude Include="GameStateManager.h" />
     <ClInclude Include="IGameState.h" />
+    <ClInclude Include="IPrototype.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Queue.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ResourceBase.h" />
+    <ClInclude Include="ResourceFactory.h" />
+    <ClInclude Include="ResourceManager.h" />
     <ClInclude Include="SceneObject.h" />
     <ClInclude Include="SpriteObject.h" />
     <ClInclude Include="Stack.h" />
