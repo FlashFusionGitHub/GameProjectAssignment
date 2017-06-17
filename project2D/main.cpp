@@ -1,5 +1,6 @@
 #include "Application2D.h"
 
+// This is only a test.
 int main() {
 	
 	// allocation
