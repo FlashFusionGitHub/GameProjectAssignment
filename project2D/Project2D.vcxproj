@@ -95,6 +95,8 @@
   <ItemGroup>
     <ClInclude Include="Application2D.h" />
     <ClInclude Include="DynamicArray.h" />
+    <ClInclude Include="GameStateManager.h" />
+    <ClInclude Include="IGameState.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />

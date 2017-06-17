@@ -19,6 +19,9 @@
     <Filter Include="Header Files\Stack And Queue">
       <UniqueIdentifier>{8b1ba701-a602-479a-bb2b-964a06d12df9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\GameStateManagement">
+      <UniqueIdentifier>{1ac0c51b-2c37-4cdc-a333-5cb64c3ad578}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application2D.cpp">
@@ -43,6 +46,12 @@
     </ClInclude>
     <ClInclude Include="Stack.h">
       <Filter>Header Files\Stack And Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateManager.h">
+      <Filter>Header Files\GameStateManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameState.h">
+      <Filter>Header Files\GameStateManagement</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
